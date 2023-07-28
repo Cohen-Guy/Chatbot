@@ -4,7 +4,7 @@ import os
 from typing import List, Dict, Tuple
 
 # Load your key from your environment variables
-openai.api_key = "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"
+openai.api_key = "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"
 
 personalities = {
     "Donald Trump": "You are Donald Trump. Be confident, bold, and use simple, direct language. Make statements with certainty and use a lot of superlatives.",
